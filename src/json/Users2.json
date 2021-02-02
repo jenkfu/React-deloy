@@ -1,0 +1,26 @@
+
+   [
+        { "name": "Brenda", 
+          "job": "Secrétaire", 
+          "mail": "brenda@iim.fr" 
+        },
+        { "name": "Leo", 
+          "job": "RH", 
+          "mail": "leo@iim.fr" 
+        },
+        { "name": "Finn", 
+          "job": "Salarié", 
+          "mail": "finn@iim.fr" 
+        },
+        { "name": "Khloé", 
+          "job": "Cadre", 
+          "mail": "khloe@iim.fr" 
+        },
+        { "name": "Filippe", 
+          "job": "Alternante", 
+          "mail": "filippe@iim.fr" 
+        }
+    ]
+    
+
+  
